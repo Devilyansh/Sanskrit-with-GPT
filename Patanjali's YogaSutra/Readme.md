@@ -6,8 +6,11 @@
 - In [English][English gitlink]
 - In [Hindi]
 
-> Prompt:
-> here
+> Example Prompt:
+>> Lets go throught patanjali's yoga sutra
+>> Starting with chapter 1
+>> List the first 10 sutra in Sanskrit 
+
  
 | Sutra # | Sanskrit | English |
 | ------ | ------ | ------ |

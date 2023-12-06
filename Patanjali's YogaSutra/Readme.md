@@ -7,14 +7,11 @@
 - In [Hindi]
 
 > Example Prompt:
->> Lets go throught patanjali's yoga sutra
->> Starting with chapter 1
+> 
+>> Lets go throught patanjali's yoga sutra,
+>> Starting with chapter 1,
 >> List the first 10 sutra in Sanskrit 
 
- 
-| Sutra # | Sanskrit | English |
-| ------ | ------ | ------ |
-| 1 | अथ योगानुशासनम् ॥ १.१॥ | ------ |
 
 [//]: # (Links list)
 
